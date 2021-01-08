@@ -1,5 +1,6 @@
 Hungry Gnome
-(c) mjt, 2014  [mixut@hotmail.com]
+(c) mjt, 2014
+
 
 Released under MIT-license.
 Requires Java.
